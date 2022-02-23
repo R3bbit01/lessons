@@ -20,7 +20,7 @@ def subtract(a, b):
             weight = multiply(90, 2)
             iq = divide(100, 2)
 
-            print(f"Age: {age}. height: {height}, Weight: {weight}, IQ: {iq,2}")
+            print(f"Age: {age}. height: {height}, Weight: {weight}, IQ: {iq, 2}")
 
         
             
